@@ -1,7 +1,7 @@
 [
     {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_next_icon.png.flat",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\next_icon.png"
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_tenth_task_sign_in_page.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_tenth_task_sign_in_page.xml"
     },
     {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_location_icon.png.flat",
@@ -12,16 +12,8 @@
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_bell.png.flat",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\bell.png"
-    },
-    {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_games.png.flat",
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\games.png"
-    },
-    {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
@@ -36,18 +28,6 @@
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_first_task.xml"
     },
     {
-        "merged": "com.example.homeworks_1.app-debug-31:/layout_activity_fourth_task.xml.flat",
-        "source": "com.example.homeworks_1.app-main-33:/layout/activity_fourth_task.xml"
-    },
-    {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_third_task.xml.flat",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_third_task.xml"
-    },
-    {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_fourth_task.xml.flat",
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_fourth_task.xml"
     },
@@ -58,6 +38,118 @@
     {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_tenth_task.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_tenth_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_facebook_icon.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\facebook_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_i_icon.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\i_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_jasur.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\jasur.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_power_icon.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\power_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_sms.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\sms.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_eighth_task.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_eighth_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_task_10.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\task_10.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_globus.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\globus.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_sixth_task.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_sixth_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_fifth_task.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_fifth_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_next_icon.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\next_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_tenth_task_sing_up_page.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_tenth_task_sing_up_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_ic_input_add.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\ic_input_add.xml"
+    },
+    {
+        "merged": "com.example.homeworks_1.app-debug-31:/layout_activity_tenth_task.xml.flat",
+        "source": "com.example.homeworks_1.app-main-33:/layout/activity_tenth_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_bell.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_seventh_task.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_seventh_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_abbos.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\abbos.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_third_task.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_third_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_mic_icon.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\mic_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_sanjar_karimov.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\sanjar_karimov.png"
     },
     {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
@@ -72,10 +164,6 @@
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\home.png"
     },
     {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_sms.png.flat",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\sms.png"
-    },
-    {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_best.png.flat",
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\best.png"
     },
@@ -88,10 +176,6 @@
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\baseline_arrow_back_ios_24.xml"
     },
     {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\ic_launcher_background.xml"
-    },
-    {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     },
@@ -100,8 +184,8 @@
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\money.png"
     },
     {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_sanjar.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\sanjar.png"
     },
     {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_star.png.flat",
@@ -112,28 +196,16 @@
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_globus.png.flat",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\globus.png"
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_twitter_icon.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\twitter_icon.png"
     },
     {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\drawable_person_icon.png.flat",
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\drawable\\person_icon.png"
     },
     {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\xml\\data_extraction_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-main-33:\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.4\\com.example.homeworks_1.app-debug-31:\\layout_activity_second_task.xml.flat",

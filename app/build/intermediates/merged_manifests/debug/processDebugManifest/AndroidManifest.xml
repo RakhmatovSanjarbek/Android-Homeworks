@@ -28,6 +28,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.Homeworks_1" >
         <activity
+            android:name="com.example.homeworks_1.TenthTaskSignInPageActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.homeworks_1.TenthTaskSingUpPageActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.homeworks_1.MainActivity"
             android:exported="true" >
             <intent-filter>
@@ -47,6 +53,21 @@
             android:exported="true" />
         <activity
             android:name="com.example.homeworks_1.FourthTaskActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.homeworks_1.FifthTaskActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.homeworks_1.SixthTaskActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.homeworks_1.SeventhTaskActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.homeworks_1.TenthTaskActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.homeworks_1.EighthTaskActivity"
             android:exported="true" />
 
         <provider
