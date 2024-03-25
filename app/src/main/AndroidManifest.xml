@@ -33,6 +33,9 @@
         <activity
             android:name=".FourthTaskActivity"
             android:exported="true" />
+        <activity
+            android:name=".FifthTaskActivity"
+            android:exported="true" />
     </application>
 
 </manifest>

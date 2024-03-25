@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var onClickSecondTask: MaterialCardView
     private lateinit var onClickThirdTask: MaterialCardView
     private lateinit var onClickFourthTask: MaterialCardView
+    private lateinit var onClickFifthTask: MaterialCardView
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -42,6 +43,13 @@ class MainActivity : AppCompatActivity() {
         onClickFourthTask.setOnClickListener {
             startActivity(
                 Intent(this,FourthTaskActivity::class.java)
+            )
+        }
+
+        onClickFifthTask=findViewById(R.id.task_5)
+        onClickFifthTask.setOnClickListener {
+            startActivity(
+                Intent(this,FifthTaskActivity::class.java)
             )
         }
     }

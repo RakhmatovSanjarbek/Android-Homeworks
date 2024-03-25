@@ -95,6 +95,23 @@
                     android:textStyle="bold"
                     android:gravity="center"/>
             </com.google.android.material.card.MaterialCardView>
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/task_5"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                app:strokeWidth="2dp"
+                app:strokeColor="#031791"
+                android:layout_marginBottom="16dp"
+                app:cardBackgroundColor="@color/white">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Fifth Task"
+                    android:textColor="#031791"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+            </com.google.android.material.card.MaterialCardView>
         </LinearLayout>
     </ScrollView>
 
