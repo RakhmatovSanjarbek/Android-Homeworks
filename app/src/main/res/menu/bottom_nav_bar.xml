@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/person"
+        android:title="My Assistant"/>
+    <item
+        android:icon="@drawable/world_2_light"
+        android:title="My News"/>
+    <item
+        android:icon="@drawable/premium"
+        android:title="Premium"/>
+    <item
+        android:icon="@drawable/settings"
+        android:title="Settings"/>
+</menu>

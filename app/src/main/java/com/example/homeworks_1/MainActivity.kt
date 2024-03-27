@@ -17,71 +17,80 @@ class MainActivity : AppCompatActivity() {
     private lateinit var onClickSixthTask: MaterialCardView
     private lateinit var onClickSeventhTask: MaterialCardView
     private lateinit var onClickEighthTask: MaterialCardView
-    private lateinit var onClickTenthTask: MaterialCardView
+    private lateinit var onClickTenthTask: MaterialCardView 
+    private lateinit var onClickTwelfthTask: MaterialCardView
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
-        onClickFirstTask=findViewById(R.id.task_1)
+        onClickFirstTask = findViewById(R.id.task_1)
         onClickFirstTask.setOnClickListener {
             startActivity(
-                Intent(this,FirstTaskActivity::class.java)
+                Intent(this, FirstTaskActivity::class.java)
             )
         }
 
-        onClickSecondTask=findViewById(R.id.task_2)
+        onClickSecondTask = findViewById(R.id.task_2)
         onClickSecondTask.setOnClickListener {
             startActivity(
-                Intent(this,SecondTaskActivity::class.java)
+                Intent(this, SecondTaskActivity::class.java)
             )
         }
 
-        onClickThirdTask=findViewById(R.id.task_3)
+        onClickThirdTask = findViewById(R.id.task_3)
         onClickThirdTask.setOnClickListener {
             startActivity(
-                Intent(this,ThirdTaskActivity::class.java)
+                Intent(this, ThirdTaskActivity::class.java)
             )
         }
 
-        onClickFourthTask=findViewById(R.id.task_4)
+        onClickFourthTask = findViewById(R.id.task_4)
         onClickFourthTask.setOnClickListener {
             startActivity(
-                Intent(this,FourthTaskActivity::class.java)
+                Intent(this, FourthTaskActivity::class.java)
             )
         }
 
-        onClickFifthTask=findViewById(R.id.task_5)
+        onClickFifthTask = findViewById(R.id.task_5)
         onClickFifthTask.setOnClickListener {
             startActivity(
-                Intent(this,FifthTaskActivity::class.java)
+                Intent(this, FifthTaskActivity::class.java)
             )
         }
 
-        onClickSixthTask=findViewById(R.id.task_6)
+        onClickSixthTask = findViewById(R.id.task_6)
         onClickSixthTask.setOnClickListener {
             startActivity(
-                Intent(this,SixthTaskActivity::class.java)
+                Intent(this, SixthTaskActivity::class.java)
             )
         }
 
-        onClickSeventhTask=findViewById(R.id.task_7)
+        onClickSeventhTask = findViewById(R.id.task_7)
         onClickSeventhTask.setOnClickListener {
             startActivity(
-                Intent(this,SeventhTaskActivity::class.java)
+                Intent(this, SeventhTaskActivity::class.java)
             )
         }
 
-        onClickEighthTask=findViewById(R.id.task_8)
+        onClickEighthTask = findViewById(R.id.task_8)
         onClickEighthTask.setOnClickListener {
             startActivity(
-                Intent(this,EighthTaskActivity::class.java)
+                Intent(this, EighthTaskActivity::class.java)
             )
         }
 
-        onClickTenthTask=findViewById(R.id.task_10)
+        onClickTenthTask = findViewById(R.id.task_10)
         onClickTenthTask.setOnClickListener {
             startActivity(
-                Intent(this,TenthTaskActivity::class.java)
+                Intent(this, TenthTaskActivity::class.java)
+            )
+        }
+
+        onClickTwelfthTask = findViewById(R.id.task_12)
+        onClickTwelfthTask.setOnClickListener {
+            startActivity(
+                Intent(this, TwelfthTaskPinScreenActivity::class.java)
             )
         }
     }

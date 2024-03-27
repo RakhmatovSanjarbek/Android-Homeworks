@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:2:1-59:12
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:2:1-65:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\ASUS\.gradle\caches\transforms-3\ee0063f0d4c8967c634e750c7bcb2e46\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ASUS\.gradle\caches\transforms-3\ddf324b6a45754fc446fc6eab33ec636\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ASUS\.gradle\caches\transforms-3\e0b36974138b4f555dc681ab61bd7cef\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -56,8 +56,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\ASUS\.gradle\caches\transforms
 	xmlns:android
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:5:5-57:19
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:5:5-57:19
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:5:5-63:19
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:5:5-63:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\ASUS\.gradle\caches\transforms-3\ee0063f0d4c8967c634e750c7bcb2e46\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\ASUS\.gradle\caches\transforms-3\ee0063f0d4c8967c634e750c7bcb2e46\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ASUS\.gradle\caches\transforms-3\ddf324b6a45754fc446fc6eab33ec636\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -96,88 +96,100 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\AS
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:13:9-49
 	android:dataExtractionRules
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.homeworks_1.TenthTaskSignInPageActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:15:9-17:40
+activity#com.example.homeworks_1.TwelfthTaskMainScreenActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:15:9-17:39
 	android:exported
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:17:13-37
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:17:13-36
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:16:13-56
-activity#com.example.homeworks_1.TenthTaskSingUpPageActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:18:9-20:40
-	android:exported
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:20:13-37
-	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:19:13-56
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:16:13-58
 activity#com.example.homeworks_1.MainActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:21:9-29:20
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:18:9-26:20
 	android:exported
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:23:13-36
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:22:13-41
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:24:13-28:29
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:24:27-74
 activity#com.example.homeworks_1.FirstTaskActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:27:9-29:39
+	android:exported
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:28:13-46
+activity#com.example.homeworks_1.ThirdTaskActivity
 ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:30:9-32:39
 	android:exported
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:32:13-36
 	android:name
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:31:13-46
-activity#com.example.homeworks_1.ThirdTaskActivity
+activity#com.example.homeworks_1.SecondTaskActivity
 ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:33:9-35:39
 	android:exported
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:35:13-36
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:34:13-46
-activity#com.example.homeworks_1.SecondTaskActivity
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:34:13-47
+activity#com.example.homeworks_1.FourthTaskActivity
 ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:36:9-38:39
 	android:exported
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:38:13-36
 	android:name
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:37:13-47
-activity#com.example.homeworks_1.FourthTaskActivity
+activity#com.example.homeworks_1.FifthTaskActivity
 ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:39:9-41:39
 	android:exported
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:41:13-36
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:40:13-47
-activity#com.example.homeworks_1.FifthTaskActivity
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:40:13-46
+activity#com.example.homeworks_1.SixthTaskActivity
 ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:42:9-44:39
 	android:exported
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:44:13-36
 	android:name
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:43:13-46
-activity#com.example.homeworks_1.SixthTaskActivity
+activity#com.example.homeworks_1.SeventhTaskActivity
 ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:45:9-47:39
 	android:exported
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:47:13-36
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:46:13-46
-activity#com.example.homeworks_1.SeventhTaskActivity
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:46:13-48
+activity#com.example.homeworks_1.TenthTaskActivity
 ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:48:9-50:39
 	android:exported
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:50:13-36
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:49:13-48
-activity#com.example.homeworks_1.TenthTaskActivity
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:49:13-46
+activity#com.example.homeworks_1.EighthTaskActivity
 ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:51:9-53:39
 	android:exported
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:53:13-36
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:52:13-46
-activity#com.example.homeworks_1.EighthTaskActivity
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:52:13-47
+activity#com.example.homeworks_1.TwelfthTaskPinScreenActivity
 ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:54:9-56:39
 	android:exported
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:56:13-36
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:55:13-47
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:55:13-57
+activity#com.example.homeworks_1.TenthTaskSignInPageActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:57:9-59:39
+	android:exported
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:59:13-36
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:58:13-56
+activity#com.example.homeworks_1.TenthTaskSingUpPageActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:60:9-62:39
+	android:exported
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:62:13-36
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml:61:13-56
 uses-sdk
 INJECTED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ASUS\AndroidStudioProjects\Homeworks_1\app\src\main\AndroidManifest.xml

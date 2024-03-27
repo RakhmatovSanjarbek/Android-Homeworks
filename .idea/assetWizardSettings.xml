@@ -28,9 +28,10 @@
                         </option>
                         <option name="values">
                           <map>
+                            <entry key="assetSourceType" value="FILE" />
                             <entry key="color" value="ffffff" />
-                            <entry key="outputName" value="ic_input_add" />
-                            <entry key="sourceFile" value="C:\Users\ASUS\AndroidStudioProjects\Homeworks_1" />
+                            <entry key="outputName" value="file_dock_light_3x" />
+                            <entry key="sourceFile" value="D:\Android vector svg\File_dock_light@3x.svg" />
                           </map>
                         </option>
                       </PersistentState>
